@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
 
 See my full CV as of May 23rd 2020 [here](../files/CV05232020.pdf)
 ======
-
+======
+======
 Education
 ======
 * B.S. in Applied Mathematics, School of Mathematics and Statistics, University of Melbourne, 2014
