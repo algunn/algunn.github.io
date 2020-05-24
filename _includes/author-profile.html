@@ -118,7 +118,9 @@
       {% if author.wikipedia %}
         <li><a href="https://en.wikipedia.org/wiki/User:{{ author.wikipedia }}"><i class="fab fa-fw fa-wikipedia-w" aria-hidden="true"></i> Wikipedia</a></li>
       {% endif %}
-      
+    </ul>
+  </div>
+  
   <div class="author__logo">
     {% if author.avatar contains "://" %}
     	<img src="{{ author.logo }}" alt="{{ author.name }}">
@@ -127,6 +129,5 @@
     {% endif %}
   </div>
       
-    </ul>
-  </div>
+
 </div>
