@@ -14,7 +14,7 @@ Research
 =======
 
 At the moment I am studying:
-* What sets the size of the giant dunes on Earth?
+* Why are the giant dunes on Earth the size they are?
 * How fast do winds have to be to move sand grains on other planets?
 * How can we measure the layer of grains being blown by wind in situ?
 * What types of continental slope failures can initiate turbidity currents?
