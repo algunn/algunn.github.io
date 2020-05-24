@@ -4,6 +4,6 @@ collection: teaching
 type: "Undergraduate, Teaching Assistant"
 permalink: /teaching/spring19
 venue: "Earth & Environmental Science, University of Pennsylvania"
-date: Spring 2019
+date: 2019-01-01
 location: "Philadelphia, USA"
 ---
