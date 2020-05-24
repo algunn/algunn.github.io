@@ -15,10 +15,10 @@ Research
 
 At the moment I am studying:
 * What sets the size of the giant dunes on Earth?
-* What is the threshold of motion for sand grains blown by wind on other planets?
-* What does the saltation layer look like in situ?
-* What types of slope failures can initiate turbidity currents?
+* How fast do winds have to be to move sand grains on other planets?
+* How can we measure the layer of grains being blown by wind in situ?
+* What types of continental slope failures can initiate turbidity currents?
 
 I have papers in review on the topics of:
-* The diurnal atmopsheric boundary layer cycle over dune fields
-* The internal boundary layer development over dune fields
+* How the extreme heat cycle influences the winds over dune fields
+* How the roughness of dunes influences the winds over dune fields
