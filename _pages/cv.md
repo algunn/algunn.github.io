@@ -8,7 +8,6 @@ redirect_from:
 ---
 
 See my full CV as of May 23<sup>rd</sup> 2020 [here](../files/CV05232020.pdf)
-======
 
 Education
 ======
