@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Andrew Gunn"
-  avatar           : "profile.png","logo.png"
+  avatar           : "profile.png"
   bio              : "Geomorphology, Geophysical Fluid Dynamics"
   location         : "Philadelphia, USA"
   employer         :
