@@ -1,5 +1,5 @@
 ---
-title: "Earth Surfaces Processes"
+title: "Earth Surface Processes"
 collection: teaching
 type: "Undergraduate & Graduate, Field Teaching Assistant"
 permalink: /teaching/spring19field
