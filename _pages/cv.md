@@ -9,32 +9,29 @@ redirect_from:
 
 {% include base_path %}
 
+See my full CV as of May 23rd 2020 [here](../files/CV05232020.pdf)
+======
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* B.S. in Applied Mathematics, School of Mathematics and Statistics, University of Melbourne, 2014
+* B.Mar.S. (Hons) in Physical Oceanography, Institute for Marine & Antarctic Studies, University of Tasmania, 2015
+* Ph.D in Geomorphology, Department of Earth & Environmental Science, University of Pennsylvania, 2021 (expected)
 
-Work experience
+Fellowships & Appointments
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Benjamin Franklin Fellow, 2016-current
+  * Earth & Environmental Science, University of Pennsylvania
+
+* Research Fellow, 2016
+  * Earth & Environmental Science, University of Pennsylvania
+
+* Tsuneichi Fujii Scholar, 2015
+  * Graduate School of Environmental Science, University of Hokkaido
+
+* Australian Research Council Climate System Science Scholar, 2015
+  * Institute for Marine & Antarctic Studies, University of Tasmania
 
 Publications
 ======
@@ -42,18 +39,8 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
