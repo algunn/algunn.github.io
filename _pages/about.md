@@ -19,6 +19,6 @@ At the moment I am studying:
 * How can we measure the layer of grains being blown by wind in situ?
 * What types of continental slope failures can initiate turbidity currents?
 
-I have papers in review on the topics of:
+I have recent papers on the topics of:
 * How the extreme heat cycle influences the winds over dune fields
 * How the roughness of dunes influences the winds over dune fields
