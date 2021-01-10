@@ -6,5 +6,5 @@ excerpt: 'Sand dunes arise wherever loose sediment is mobilized by winds that ex
 date: 2020-10-14
 venue: '(IN REVIEW) Nature Astronomy'
 paperurl: https://doi.org/10.31223/X5SC70
-citation: 'Gunn, A., et al. (2020). &quot;Conditions for aeolian transport in the Solar System.&quot; <i>eartharxiv:1872</i>.'
+citation: 'Gunn, A., Jerolmack, D. J. (2020). &quot;Conditions for aeolian transport in the Solar System.&quot; <i>eartharxiv:1872</i>.'
 ---
