@@ -7,7 +7,7 @@ redirect_from:
   - /resume
 ---
 
-See my full CV as of October 14<sup>th</sup> 2020 [here](../files/CV10142020.pdf)
+See my full CV as of February 9<sup>th</sup> 2021 [here](../files/CV02092021.pdf)
 
 Education
 ======
