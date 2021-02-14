@@ -6,5 +6,5 @@ excerpt: 'Sand seas are vast expanses of Earth''s surface that are covered in du
 date: 2021-02-12
 venue: (SUBMITTED) Nature Climate Change
 paperurl: 'TBD'
-citation: 'Gunn, A., et al. (2021). &quot;21st-century stagnation of sand-sea activity&quot.'
+citation: 'Gunn, A., et al. (2021). &quot;21st-century stagnation of sand-sea activity&quot;.'
 ---
