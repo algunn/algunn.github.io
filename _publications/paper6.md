@@ -6,5 +6,5 @@ excerpt: 'Wherever a loose bed of sand is subject to sufficiently strong winds, 
 date: 2021-02-10
 venue: '(SUBMITTED) Nature'
 paperurl: 'TBD'
-citation: 'Gunn, A., et al. (2020). &quot;What sets aeolian dune height?&quot.'
+citation: 'Gunn, A., et al. (2020). &quot;What sets aeolian dune height?&quot;.'
 ---
