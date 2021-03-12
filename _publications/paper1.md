@@ -6,5 +6,5 @@ excerpt: 'Wind-blown sand dunes are both a consequence and a driver of climate d
 date: 2021-01-26
 venue: 'Geophysical Research Letters'
 paperurl: 'https://doi.org/10.1029/2020GL090924'
-citation: 'Gunn, A., et al. (2020). &quot;Circadian rhythm of dune-field activity.&quot; <i>arxiv:1812.03612</i>.'
+citation: 'Gunn, A., et al. (2021). &quot;Circadian rhythm of dune-field activity.&quot; <i>doi:10.1029/2020GL090924</i>.'
 ---
