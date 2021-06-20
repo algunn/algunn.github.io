@@ -21,7 +21,7 @@ Fellowships & Appointments
 * Postdoctoral Fellow, 2021-current
   * Geological Sciences, Stanford University
 
-* Benjamin Franklin Fellow, 2016-current
+* Benjamin Franklin Fellow, 2016-2021
   * Earth & Environmental Science, University of Pennsylvania
 
 * Research Fellow, 2016
