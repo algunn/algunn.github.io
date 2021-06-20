@@ -20,5 +20,5 @@ At the moment I am studying:
 I have recent papers on the topics of:
 * Why the giant dunes on Earth are the size they are
 * How fast winds have to be to move sand grains on other planets
-* How the extreme heat cycle influences the winds over dune fields
+* How the extreme heat cycle influences the winds over dune fields (coverage in the Smithsonian Magazine [here](https://www.smithsonianmag.com/science-nature/how-extreme-temperature-swings-deserts-stir-sand-and-dust-180977524/))
 * How the roughness of dunes influences the winds over dune fields
