@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Andrew Gunn"
 title_separator          : "-"
 name                     : &name "Andrew Gunn"
-description              : &description "PhD Student at the University of Pennsylvania"
+description              : &description "Postdoctoral Scholar at Stanford University"
 url                      : https://algunn.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "algunn/algunn.github.io"
@@ -83,10 +83,10 @@ author:
   name             : "Andrew Gunn"
   avatar           : "profile.png"
   bio              : "Geomorphology, Geophysical Fluid Dynamics"
-  location         : "Philadelphia, USA"
+  location         : "Palo Alto, USA"
   employer         :
   googlescholar    : "https://scholar.google.com/citations?user=2laSUg0AAAAJ"
-  email            : "andle@sas.upenn.edu"
+  email            : "agunn@stanford.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
